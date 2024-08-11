@@ -40,7 +40,7 @@ This smart device is intended to be installed and fixed into a copper electromag
 
 <p align="center">
   <a href="https://www.customtintsolutions.com/window-film-benefits/rf-blocking/" target="_blank">
-     <img height="300px" src="https://github.com/aeonSolutions/Aeonlabs-Home-Automation-Smart-EMF-Shield-Curtain-for-Windows-and-Balconies/blob/main/media/emf-protection-window-film.jpg" /> </a> <br>
+     <img height="300px" src="" /> </a> <br>
    <sup> Figure 1- Example of a window in a room where this Smart Device can be installed</sup>
 </p>
 
@@ -80,7 +80,7 @@ This device is designed to burn out every time an electromagnetic pulse, spark, 
 stay safe.
 
 <p align="center">
-   <img height="300px" src="https://github.com/aeonSolutions/Aeonlabs-Home-Automation-Smart-EMF-Shield-Curtain-for-Windows-and-Balconies/blob/main/media/smart_epm_18650_photo_4.jpg"> <br>
+   <img height="300px" src=""> <br>
  <sup> Figure 3 - Smart EM Device Already Assemble and ready to be installed on the Aluminium Enclosure</sup>
 </p>
 
@@ -125,14 +125,9 @@ This code uses my own ESP32 C++ class libraries to expedite the development of t
 <br>
 
 ## What one additionally needs
+The following devices, materials, or components are needed to be bought:
 - [USB to UART/USB TTL firmware burner for 5V and 3.3V MCUs ](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md)
-- [Radiation Shield Curtain](https://s.click.aliexpress.com/e/_DC76f4j) or any other conducting material or conductive glass window
-  <p align="center"> 
- <a href="https://s.click.aliexpress.com/e/_DC76f4j" target="_blank">
-     <img height="200px" src="http://ae01.alicdn.com/kf/H7ce656812a1349839703e4e40070a3d1k.jpg_350x350.jpg" />
-  </a>
-</p>
-
+- rigid carbon fiber helmet on AliExpress [here](https://s.click.aliexpress.com/e/_DCsIVkJ)
 - [4.2V Lipo Battery](https://s.click.aliexpress.com/e/_Dl3iRpl)
   
 <br />
