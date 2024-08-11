@@ -23,6 +23,7 @@
 Last update 11-08-2024 <br> <br>
 </p>
 
+⚠️ **Start by reading the documentation first**. [Click here to open it](https://github.com/aeonSolutions/AeonLabs-Safety-Health/wiki) 
 
 # Carbon Fiber EMF Protection Helmet
 
