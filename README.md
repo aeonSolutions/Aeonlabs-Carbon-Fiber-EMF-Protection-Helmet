@@ -31,24 +31,27 @@ The helmet Magneto uses is made of an ultra-high strength carbon fiber composite
 
 The helmet I bought has been delivered. In the upcoming weeks, I'll be designing flexible hardware electronics capable of detecting and providing some degree of protection (and shielding) from any electromagnetic activity around, and near, a victim's head. Follow this project to get the latest updates, link on the menu at the top of the page. Thank you.
 
-<p align="center">
-    <img height="150" src="https://github.com/aeonSolutions/AeonLabs-Safety-Health/blob/main/media/rigid_carbon_fiber_helmet.jpg">
-</p>
+
 
 ## The problem
 nowadays many are sensitive to electromagnetic frequency radiation mainly due to excessive exposure above natural and healthy limits. There are many solutions to mitigate exposure to this kind of radiation however none have the ability to collect EMF energy values directly from a window or access door to a balcony.
 
 ## The idea
-This smart device is intended to be installed and fixed into a copper electromagnetic (EM) shield on any EM indoor window or balcony door. It has the main ability to collect EM sensor data from the curtain itself and send it to a public data repository, for instance, a #dataverse (see www.dataverse.org)
+This smart device is intended to be installed and fixed into a rigid carbon fiber helmet. It has the main ability to collect EM sensor data from the curtain itself and send it to a public data repository, for instance, a #dataverse (see www.dataverse.org) or here on GitHub. 
 
 <p align="center">
-  <a href="https://www.customtintsolutions.com/window-film-benefits/rf-blocking/" target="_blank">
-     <img height="300px" src="" /> </a> <br>
-   <sup> Figure 1- Example of a window in a room where this Smart Device can be installed</sup>
+    <img height="150" src="https://github.com/aeonSolutions/AeonLabs-Safety-Health/blob/main/media/rigid_carbon_fiber_helmet.jpg"> <br>
+   <sup> Figure 1- Photo of the carbon fiber helmet I bought</sup>
 </p>
+
+## Total Cost of this Project
+The total cost of this project to date is listed below:
+- Work hours dedicated to this project: >30 w.h
+- Carbon Fiber Helmet 90 eur
 
 <br>
 
+## Important Information
 The smart safety & health solution is for the kind of wireless aggression that behaves like ripples in a pond. For instance Wireless electromagnetic radios, including those found on smartphones, tablets, wifi routers at home, and many more.
 
 **This smart device is not able to detect wireless aggressions targeted to a person's body and individual. For instance, using some kind of beam-forming device or technologies**. For example, Laser and laser-like kind of devices and kind of technologies. 
