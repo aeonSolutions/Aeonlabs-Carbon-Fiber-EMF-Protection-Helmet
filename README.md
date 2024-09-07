@@ -20,7 +20,7 @@
 
 <p align="right">
  <a href="https://github-com.translate.goog/aeonSolutions/Aeonlabs-Home-Automation-Smart-EMF-Shield-Curtain-for-Windows-and-Balconies?_x_tr_sl=en&_x_tr_tl=nl&_x_tr_hl=en&_x_tr_pto=wapp">Change language</a> <br>
-Last update 11-08-2024 <br> <br>
+Last update 07-09-2024 <br> <br>
 </p>
 
 ⚠️ **Start by reading the documentation first**. [Click here to open it](https://github.com/aeonSolutions/AeonLabs-Safety-Health/wiki) 
@@ -47,7 +47,7 @@ This smart device is intended to be installed and fixed into a rigid carbon fibe
 ## Total Cost of this Project
 The total cost of this project to date is listed below:
 - Work hours dedicated to this project: >30 w.h <br>
-  This included research and study about Bio EM RF, building this repository, and other useless miscellaneous online tasks.
+  This includes research and study about Bio EM RF, building this repository, and other useless miscellaneous online tasks.
 - Carbon Fiber Helmet ~90 eur ( [buy one on AliExpress ](https://s.click.aliexpress.com/e/_DCsIVkJ) )
 
 <br>
