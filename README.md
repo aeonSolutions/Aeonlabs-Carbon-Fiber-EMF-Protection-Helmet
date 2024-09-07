@@ -50,6 +50,18 @@ The total cost of this project to date is listed below:
   This includes research and study about Bio EM RF, building this repository, and other useless miscellaneous online tasks.
 - Carbon Fiber Helmet ~90 eur ( [buy one on AliExpress ](https://s.click.aliexpress.com/e/_DCsIVkJ) )
 
+
+<p align="center">
+    <a href="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/become_a_sponsor/aeonlabs-github-sponsorship-agreement.docx">
+        <img height="50" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/want_to_become_a_sponsor.png">
+    </a>
+    <a href="https://github.com/sponsors/aeonSolutions">
+        <img height="50" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/become_a_github_sponsor.png">
+    </a>
+</p>
+
+See [here](https://github.com/aeonSolutions/AeonLabs-Safety-Health) who sponsored, to this date, the Safety & Health project. 
+
 <br>
 
 ## Important Information
