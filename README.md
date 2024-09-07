@@ -29,6 +29,8 @@ Last update 11-08-2024 <br> <br>
 
 The helmet Magneto uses is made of an ultra-high strength carbon fiber composite ( see X-Men movies) ..... however, to function properly and stop the "voices" of Charles Xavier, there's a piece of electronics missing. An extreme-low-power energy harvester device. Buy a rigid carbon fiber helmet on AliExpress [here](https://s.click.aliexpress.com/e/_DCsIVkJ)
 
+The helmet I bought has been delivered. In the upcoming weeks, I'll be designing flexible hardware electronics capable of detecting and providing some degree of protection (and shielding) from any electromagnetic activity around, and near, a victim's head. Follow this project to get the latest updates, link on the menu at the top of the page. Thank you.
+
 <p align="center">
     <img height="150" src="https://github.com/aeonSolutions/AeonLabs-Safety-Health/blob/main/media/rigid_carbon_fiber_helmet.jpg">
 </p>
