@@ -47,7 +47,7 @@ This smart device is intended to be installed and fixed into a rigid carbon fibe
 ## Total Cost of this Project
 The total cost of this project to date is listed below:
 - Work hours dedicated to this project: >30 w.h
-- Carbon Fiber Helmet 90 eur
+- Carbon Fiber Helmet ~90 eur ( [buy one on AliExpress ](https://s.click.aliexpress.com/e/_DCsIVkJ) )
 
 <br>
 
