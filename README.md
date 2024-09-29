@@ -34,7 +34,7 @@ The helmet I bought has been delivered. In the upcoming weeks, I'll be designing
 
 
 ## The problem
-nowadays many are sensitive to electromagnetic frequency radiation mainly due to excessive exposure above natural and healthy limits. There are many solutions to mitigate exposure to this kind of radiation however none have the ability to collect EMF energy values directly from a person's helmet when wearing it.
+Nowadays many people are sensitive to electromagnetic frequency radiation mainly due to excessive exposure above natural and healthy limits. There are many solutions to mitigate exposure to this kind of radiation, however, none have the ability to collect and measure EMF energy values directly from a person's helmet when wearing it.
 
 ## The idea
 This smart device is intended to be installed and fixed into a rigid carbon fiber helmet. It has the main ability to collect EM sensor data from the exposed carbon fiber the helmet is made  and send it to a public data repository, for instance, a #dataverse (see www.dataverse.org) or here on GitHub. 
