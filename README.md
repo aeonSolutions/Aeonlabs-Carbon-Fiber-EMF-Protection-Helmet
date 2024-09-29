@@ -76,14 +76,14 @@ See [here](https://github.com/aeonSolutions/AeonLabs-Safety-Health) who sponsore
 Before installing the smart hardware electronics it is necessary to sand all epoxy on the outside to expose the carbon fiber and make it conductive to electricity.
 
 <p align="center">
-    <img height="150" src="https://github.com/aeonSolutions/Aeonlabs-Carbon-Fiber-EMF-Protection-Helmet/blob/main/media/helmet_carbon_fiber_exposed.jpg"> <br>
+    <img height="250" src="https://github.com/aeonSolutions/Aeonlabs-Carbon-Fiber-EMF-Protection-Helmet/blob/main/media/helmet_carbon_fiber_exposed.jpg"> <br>
    <sup> Figure 2- Photo of the Helmet with the carbon fiber exposed</sup>
 </p>
 
 Next, follows fabrication and installation of the electrode wire that later will be used to connect to the hardware electronics capable of active monitoring and detection of any sparks that may fall in the helmet or near.
 
 <p align="center">
-    <img height="150" src="https://github.com/aeonSolutions/Aeonlabs-Carbon-Fiber-EMF-Protection-Helmet/blob/main/media/helmet_carbon_fiber_exposed_with_electrode.jpg"> <br>
+    <img height="250" src="https://github.com/aeonSolutions/Aeonlabs-Carbon-Fiber-EMF-Protection-Helmet/blob/main/media/helmet_carbon_fiber_exposed_with_electrode.jpg"> <br>
    <sup> Figure 3- Photo of the Helmet with the electrode already installed</sup>
 </p>
 
