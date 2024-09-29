@@ -46,10 +46,10 @@ This smart device is intended to be installed and fixed into a rigid carbon fibe
 
 ## Total Cost of this Project
 The total cost of this project to date is listed below:
-- Work hours dedicated to this project: >30 w.h <br>
+- Work hours dedicated to this project: >40 w.h <br>
   This includes research and study about Bio EM RF, building this repository, and other useless miscellaneous online tasks.
 - Carbon Fiber Helmet ~90 eur ( [buy one on AliExpress ](https://s.click.aliexpress.com/e/_DCsIVkJ) )
-
+- miscelaneous: ~20 eur
 
 <p align="center">
     <a href="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/become_a_sponsor/aeonlabs-github-sponsorship-agreement.docx">
@@ -63,6 +63,14 @@ The total cost of this project to date is listed below:
 See [here](https://github.com/aeonSolutions/AeonLabs-Safety-Health) who sponsored, to this date, the Safety & Health project. 
 
 <br>
+
+## Preparation of the Helmet
+Before installing the smart hardware electronics it is necessary to sand all epoxy on the outside to expose the carbon fiber and make it conductive to electricity.
+
+<p align="center">
+    <img height="150" src="https://github.com/aeonSolutions/Aeonlabs-Carbon-Fiber-EMF-Protection-Helmet/blob/main/media/helmet_carbon_fiber_exposed.jpg"> <br>
+   <sup> Figure 2- Photo of the Helmet with the carbon fiber exposed</sup>
+</p>
 
 ## Important Information
 The smart safety & health solution is for the kind of wireless aggression that behaves like ripples in a pond. For instance Wireless electromagnetic radios, including those found on smartphones, tablets, wifi routers at home, and many more.
