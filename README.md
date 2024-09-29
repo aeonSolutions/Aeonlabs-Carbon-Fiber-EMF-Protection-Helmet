@@ -80,6 +80,13 @@ Before installing the smart hardware electronics it is necessary to sand all epo
    <sup> Figure 2- Photo of the Helmet with the carbon fiber exposed</sup>
 </p>
 
+Next, follows fabrication and installation of the electrode wire that later will be used to connect to the hardware electronics capable of active monitoring and detection of any sparks that may fall in the helmet or near.
+
+<p align="center">
+    <img height="150" src="https://github.com/aeonSolutions/Aeonlabs-Carbon-Fiber-EMF-Protection-Helmet/blob/main/media/helmet_carbon_fiber_exposed_with_electrode.jpg"> <br>
+   <sup> Figure 3- Photo of the Helmet with the electrode already installed</sup>
+</p>
+
 ## Important Information
 The smart safety & health solution is for the kind of wireless aggression that behaves like ripples in a pond. For instance Wireless electromagnetic radios, including those found on smartphones, tablets, wifi routers at home, and many more.
 
