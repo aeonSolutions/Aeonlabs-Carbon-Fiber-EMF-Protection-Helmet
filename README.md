@@ -44,6 +44,14 @@ This smart device is intended to be installed and fixed into a rigid carbon fibe
    <sup> Figure 1- Photo of the carbon fiber helmet I bought</sup>
 </p>
 
+###  Read all about my open hardware projects on ...
+<p align="center">
+   <a href="https://www.hackster.io/mtpsilva/carbon-fiber-helmet-for-emf-protection-ea7100">
+      <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/hackster_io.png" height="50">
+   </a>
+
+ </p>
+ 
 ## Total Cost of this Project
 The total cost of this project to date is listed below:
 - Work hours dedicated to this project: >40 w.h <br>
